@@ -216,7 +216,7 @@ export function createSettingsHtml() {
 
             <p><strong>首先，在基本设置中，你可以：</strong></p>
             <ul>
-                <li>选择"启用"或"禁用"来控制插件的整体开关状态。</li>
+                <li>选择“启用”或“禁用”来控制插件的整体开关状态。</li>
                 <li>选择显示在发送按钮旁边的图标样式，可选项包括：
                     <ul>
                         <li>小火箭（默认）</li>
@@ -224,7 +224,7 @@ export function createSettingsHtml() {
                         <li>星月</li>
                         <li>五芒星</li>
                         <li>Font Awesome（使用HTML代码复制）</li> 
-                        <li>自定义图标（URL/SVG/上传，图片形状可自行裁剪）</li> 
+                        <li>自定义图标（catbox的URL链接/SVG代码/上传的图片，图片形状可自行裁剪）</li> 
                     </ul>
                 </li>
             </ul>
@@ -284,7 +284,7 @@ export function createSettingsHtml() {
 
             <p><strong>最后是关于数据保存：</strong></p>
             <p>完成所有配置（包括图标和样式设置）后，记得点击“保存设置”按钮来手动保存，以确保你的设置不会丢失。Font Awesome 图标（酒馆就是使用的这家免费图标）可以在官网 (fontawesome.com) 查找。</p>
-            <p>有任何BUG、疑问或建议都欢迎反馈☺</p>
+            <p>有任何BUG、疑问或建议都欢迎反馈！</p>
         </div>
 
         <div style="text-align:center; margin-top:10px;">
